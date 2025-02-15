@@ -25,7 +25,7 @@ Language Models </h3>
 </div> -->
 
 ## 🔔 Overview
-Safety alignment in large language models (LLMs) is achieved through fine-tuning mechanisms that regulate neuron activations to suppress harmful content. We propose **Neural Attack** to induce disalignment by identifying and modifying the neurons responsible for safety constraints, and finally jailbreak the LLMs
+Safety alignment in large language models (LLMs) is achieved through fine-tuning mechanisms that regulate neuron activations to suppress harmful content. We propose **NeuRel- Attack** to induce disalignment by identifying and modifying the neurons responsible for safety constraints, and finally jailbreak the LLMs
 
 
 The following figure illustrates the overall pipeline of NeuRel-Attack:
