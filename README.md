@@ -119,7 +119,7 @@ python asr_eval.py
 We evaluate NeuRel-Attack on multiple open-source LLMs, including **Vicuna**, **LLaMA-2**, **Guanaco**, and **Mistral**, using the **AdvBench** and **MaliciousInstruct** datasets. Our method achieves competitive attack success rates, outperforming existing jailbreak techniques in various scenarios.
 
 
-|Dataset| Vicuna | Guanaco | Mistral | LlaMA2 |
+|Dataset| Vicuna | Guanaco | Mistral | Llama2 |
 |-------|-----|-------|-------|-------|
 | AdvBench | 98% | 96%| 90% | 100% |
 | MaliciousInstruct | 100% | 94% | 92% | 100% |
