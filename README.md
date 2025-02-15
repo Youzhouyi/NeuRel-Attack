@@ -116,7 +116,7 @@ python asr_eval.py
 ```
 
 ## 📊  Experimental Results
-We evaluate Neural Attack on multiple open-source LLMs, including **Vicuna**, **LLaMA-2**, **Guanaco**, and **Mistral**, using the **AdvBench** and **MaliciousInstruct** datasets. Our method achieves competitive attack success rates, outperforming existing jailbreak techniques in various scenarios.
+We evaluate NeuRel-Attack on multiple open-source LLMs, including **Vicuna**, **LLaMA-2**, **Guanaco**, and **Mistral**, using the **AdvBench** and **MaliciousInstruct** datasets. Our method achieves competitive attack success rates, outperforming existing jailbreak techniques in various scenarios.
 
 
 |Dataset| Vicuna | Guanaco | Mistral | LlaMA2 |
