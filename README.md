@@ -29,7 +29,7 @@ Safety alignment in large language models (LLMs) is achieved through fine-tuning
 
 
 The following figure illustrates the overall pipeline of NeuRel-Attack:
-<div align=center><img src="C:/Users/ZOE/Desktop/Neural-Attack/Neural-Attack/overall_pipline.png" width="100%" height="100%" /></div>
+<div align=center><img src="[C:/Users/ZOE/Desktop/Neural-Attack/Neural-Attack/overall_pipline.png](https://github.com/Youzhouyi/Neural-Attack/blob/main/overall_pipline.png)" width="100%" height="100%" /></div>
 
 <!-- We provide the **KnowUnDo**, a benchmark containing copyrighted content and user privacy domains to evaluate if the unlearning process inadvertently erases essential knowledge. Access our **KnowUnDo** directly on [Hugging Face](https://huggingface.co/datasets/zjunlp/KnowUnDo).
 
